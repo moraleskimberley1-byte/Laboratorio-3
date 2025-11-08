@@ -43,6 +43,3 @@ Desarrollo del controlador de comunicación serial:
 - FIFOs integradas TX/RX
 
 ---
-
-**Tecnológico de Costa Rica**  
-**Escuela de Ingeniería Electrónica**
